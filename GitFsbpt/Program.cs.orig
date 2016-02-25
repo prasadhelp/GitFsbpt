@@ -15,8 +15,8 @@ namespace GitFsbpt
 <<<<<<< HEAD
             // this is feature 1.1 changes
 =======
-            //
->>>>>>> master
+            // changes from feature 2.1
+>>>>>>> Feature2.1
         }
     }
 }
