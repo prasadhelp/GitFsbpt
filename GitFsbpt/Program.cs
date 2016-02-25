@@ -12,7 +12,7 @@ namespace GitFsbpt
         {
             // this is my main branch changes
 
-            //
+            // changes from feature 2.1
         }
     }
 }
